@@ -1,0 +1,20 @@
+{
+    "name" : "moip",
+    "version": "0.0.1",
+    "author" : "Gonzalo Aguirre",
+    "description" : "MoIP SDK in node.js",
+    "main": "./lib/moip.js",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/gaguirre/moip-sdk-nodejs.git"
+    },
+    "keywords": [
+        "api"
+        , "moip"
+        , "sdk"
+        , "node"
+    ],
+    "engine" : {
+        "node": ">=0.6"
+    }
+}
